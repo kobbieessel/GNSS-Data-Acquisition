@@ -166,3 +166,7 @@ __pycache__/
 ## Purpose
 
 This repository documents the foundational GNSS data-acquisition stage of a broader robotics navigation workflow. It is intended as a practical learning and development project in Python, serial communication, NMEA parsing, and robotics sensing.
+
+## Author
+Kwabena Amoako
+- LinkedIn: [Kwabena E. Amoako](https://www.linkedin.com/in/kwabena-e-amoako/)
